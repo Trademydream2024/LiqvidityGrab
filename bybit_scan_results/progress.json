@@ -1,0 +1,501 @@
+{
+  "completed": [
+    "ADAUSDT",
+    "APTUSDT",
+    "ARBUSDT",
+    "ATOMUSDT",
+    "AVAXUSDT",
+    "BNBUSDT",
+    "BTCUSDT",
+    "DOGEUSDT",
+    "DOTUSDT",
+    "ETHUSDT",
+    "FILUSDT",
+    "LINKUSDT",
+    "LTCUSDT",
+    "NEARUSDT",
+    "OPUSDT"
+  ],
+  "results": {
+    "ADAUSDT": [
+      {
+        "symbol": "ADAUSDT",
+        "session": "NY",
+        "params": "Conservative",
+        "trades": 6,
+        "winrate": 0.333,
+        "pf": 0.5,
+        "max_dd": -4.0,
+        "score": 0.01998
+      },
+      {
+        "symbol": "ADAUSDT",
+        "session": "NY",
+        "params": "Standard",
+        "trades": 5,
+        "winrate": 0.4,
+        "pf": 0.67,
+        "max_dd": -3.0,
+        "score": 0.026800000000000004
+      },
+      {
+        "symbol": "ADAUSDT",
+        "session": "Asia",
+        "params": "Aggressive",
+        "trades": 12,
+        "winrate": 0.5,
+        "pf": 1.0,
+        "max_dd": -4.0,
+        "score": 0.12
+      }
+    ],
+    "APTUSDT": [
+      {
+        "symbol": "APTUSDT",
+        "session": "NY",
+        "params": "Conservative",
+        "trades": 6,
+        "winrate": 0.333,
+        "pf": 0.5,
+        "max_dd": -3.0,
+        "score": 0.01998
+      },
+      {
+        "symbol": "APTUSDT",
+        "session": "NY",
+        "params": "Standard",
+        "trades": 7,
+        "winrate": 0.571,
+        "pf": 1.33,
+        "max_dd": -2.0,
+        "score": 0.1063202
+      },
+      {
+        "symbol": "APTUSDT",
+        "session": "Asia",
+        "params": "Aggressive",
+        "trades": 21,
+        "winrate": 0.286,
+        "pf": 0.4,
+        "max_dd": -15.0,
+        "score": 0.048048
+      }
+    ],
+    "ARBUSDT": [
+      {
+        "symbol": "ARBUSDT",
+        "session": "NY",
+        "params": "Conservative",
+        "trades": 10,
+        "winrate": 0.5,
+        "pf": 1.0,
+        "max_dd": -2.0,
+        "score": 0.1
+      },
+      {
+        "symbol": "ARBUSDT",
+        "session": "NY",
+        "params": "Standard",
+        "trades": 11,
+        "winrate": 0.455,
+        "pf": 0.83,
+        "max_dd": -3.0,
+        "score": 0.083083
+      },
+      {
+        "symbol": "ARBUSDT",
+        "session": "Asia",
+        "params": "Aggressive",
+        "trades": 19,
+        "winrate": 0.526,
+        "pf": 1.11,
+        "max_dd": -6.0,
+        "score": 0.22186680000000003
+      }
+    ],
+    "ATOMUSDT": [
+      {
+        "symbol": "ATOMUSDT",
+        "session": "NY",
+        "params": "Conservative",
+        "trades": 4,
+        "winrate": 1.0,
+        "pf": 4.0,
+        "max_dd": 0,
+        "score": 0.32
+      },
+      {
+        "symbol": "ATOMUSDT",
+        "session": "NY",
+        "params": "Standard",
+        "trades": 4,
+        "winrate": 1.0,
+        "pf": 4.0,
+        "max_dd": 0,
+        "score": 0.32
+      },
+      {
+        "symbol": "ATOMUSDT",
+        "session": "Asia",
+        "params": "Aggressive",
+        "trades": 30,
+        "winrate": 0.333,
+        "pf": 0.5,
+        "max_dd": -12.0,
+        "score": 0.0999
+      }
+    ],
+    "AVAXUSDT": [
+      {
+        "symbol": "AVAXUSDT",
+        "session": "NY",
+        "params": "Conservative",
+        "trades": 10,
+        "winrate": 0.5,
+        "pf": 1.0,
+        "max_dd": -5.0,
+        "score": 0.1
+      },
+      {
+        "symbol": "AVAXUSDT",
+        "session": "NY",
+        "params": "Standard",
+        "trades": 12,
+        "winrate": 0.583,
+        "pf": 1.4,
+        "max_dd": -5.0,
+        "score": 0.19588799999999998
+      },
+      {
+        "symbol": "AVAXUSDT",
+        "session": "Asia",
+        "params": "Aggressive",
+        "trades": 29,
+        "winrate": 0.414,
+        "pf": 0.71,
+        "max_dd": -11.0,
+        "score": 0.17048519999999998
+      }
+    ],
+    "BNBUSDT": [
+      {
+        "symbol": "BNBUSDT",
+        "session": "NY",
+        "params": "Conservative",
+        "trades": 14,
+        "winrate": 0.286,
+        "pf": 0.4,
+        "max_dd": -10.0,
+        "score": 0.032032000000000005
+      },
+      {
+        "symbol": "BNBUSDT",
+        "session": "NY",
+        "params": "Standard",
+        "trades": 18,
+        "winrate": 0.389,
+        "pf": 0.64,
+        "max_dd": -11.0,
+        "score": 0.0896256
+      },
+      {
+        "symbol": "BNBUSDT",
+        "session": "Asia",
+        "params": "Aggressive",
+        "trades": 24,
+        "winrate": 0.292,
+        "pf": 0.41,
+        "max_dd": -17.0,
+        "score": 0.057465599999999985
+      }
+    ],
+    "BTCUSDT": [
+      {
+        "symbol": "BTCUSDT",
+        "session": "NY",
+        "params": "Conservative",
+        "trades": 21,
+        "winrate": 0.571,
+        "pf": 1.33,
+        "max_dd": -8.0,
+        "score": 0.3189606
+      },
+      {
+        "symbol": "BTCUSDT",
+        "session": "NY",
+        "params": "Standard",
+        "trades": 23,
+        "winrate": 0.522,
+        "pf": 1.09,
+        "max_dd": -10.0,
+        "score": 0.26173080000000004
+      },
+      {
+        "symbol": "BTCUSDT",
+        "session": "Asia",
+        "params": "Aggressive",
+        "trades": 55,
+        "winrate": 0.473,
+        "pf": 0.9,
+        "max_dd": -25.0,
+        "score": 0.46827
+      }
+    ],
+    "DOGEUSDT": [
+      {
+        "symbol": "DOGEUSDT",
+        "session": "NY",
+        "params": "Conservative",
+        "trades": 16,
+        "winrate": 0.562,
+        "pf": 1.29,
+        "max_dd": -4.0,
+        "score": 0.23199360000000002
+      },
+      {
+        "symbol": "DOGEUSDT",
+        "session": "NY",
+        "params": "Standard",
+        "trades": 16,
+        "winrate": 0.562,
+        "pf": 1.29,
+        "max_dd": -4.0,
+        "score": 0.23199360000000002
+      },
+      {
+        "symbol": "DOGEUSDT",
+        "session": "Asia",
+        "params": "Aggressive",
+        "trades": 39,
+        "winrate": 0.564,
+        "pf": 1.29,
+        "max_dd": -10.0,
+        "score": 0.5674968
+      }
+    ],
+    "DOTUSDT": [
+      {
+        "symbol": "DOTUSDT",
+        "session": "NY",
+        "params": "Conservative",
+        "trades": 8,
+        "winrate": 0.625,
+        "pf": 1.67,
+        "max_dd": -2.0,
+        "score": 0.167
+      },
+      {
+        "symbol": "DOTUSDT",
+        "session": "NY",
+        "params": "Standard",
+        "trades": 10,
+        "winrate": 0.6,
+        "pf": 1.5,
+        "max_dd": -3.0,
+        "score": 0.18
+      },
+      {
+        "symbol": "DOTUSDT",
+        "session": "Asia",
+        "params": "Aggressive",
+        "trades": 25,
+        "winrate": 0.72,
+        "pf": 2.57,
+        "max_dd": -6.0,
+        "score": 0.9251999999999999
+      }
+    ],
+    "ETHUSDT": [
+      {
+        "symbol": "ETHUSDT",
+        "session": "NY",
+        "params": "Conservative",
+        "trades": 15,
+        "winrate": 0.133,
+        "pf": 0.15,
+        "max_dd": -13.0,
+        "score": 0.005985
+      },
+      {
+        "symbol": "ETHUSDT",
+        "session": "NY",
+        "params": "Standard",
+        "trades": 15,
+        "winrate": 0.2,
+        "pf": 0.25,
+        "max_dd": -12.0,
+        "score": 0.015
+      },
+      {
+        "symbol": "ETHUSDT",
+        "session": "Asia",
+        "params": "Aggressive",
+        "trades": 52,
+        "winrate": 0.596,
+        "pf": 1.48,
+        "max_dd": -19.0,
+        "score": 0.9173632
+      }
+    ],
+    "FILUSDT": [
+      {
+        "symbol": "FILUSDT",
+        "session": "NY",
+        "params": "Conservative",
+        "trades": 4,
+        "winrate": 0.25,
+        "pf": 0.33,
+        "max_dd": -3.0,
+        "score": 0.006600000000000001
+      },
+      {
+        "symbol": "FILUSDT",
+        "session": "NY",
+        "params": "Standard",
+        "trades": 8,
+        "winrate": 0.5,
+        "pf": 1.0,
+        "max_dd": -4.0,
+        "score": 0.08
+      },
+      {
+        "symbol": "FILUSDT",
+        "session": "Asia",
+        "params": "Aggressive",
+        "trades": 18,
+        "winrate": 0.167,
+        "pf": 0.2,
+        "max_dd": -15.0,
+        "score": 0.012024000000000002
+      }
+    ],
+    "LINKUSDT": [
+      {
+        "symbol": "LINKUSDT",
+        "session": "NY",
+        "params": "Conservative",
+        "trades": 12,
+        "winrate": 0.083,
+        "pf": 0.09,
+        "max_dd": -11.0,
+        "score": 0.0017928
+      },
+      {
+        "symbol": "LINKUSDT",
+        "session": "NY",
+        "params": "Standard",
+        "trades": 9,
+        "winrate": 0.111,
+        "pf": 0.12,
+        "max_dd": -8.0,
+        "score": 0.0023976
+      },
+      {
+        "symbol": "LINKUSDT",
+        "session": "Asia",
+        "params": "Aggressive",
+        "trades": 27,
+        "winrate": 0.519,
+        "pf": 1.08,
+        "max_dd": -8.0,
+        "score": 0.3026808
+      }
+    ],
+    "LTCUSDT": [
+      {
+        "symbol": "LTCUSDT",
+        "session": "NY",
+        "params": "Conservative",
+        "trades": 13,
+        "winrate": 0.462,
+        "pf": 0.86,
+        "max_dd": -5.0,
+        "score": 0.10330320000000001
+      },
+      {
+        "symbol": "LTCUSDT",
+        "session": "NY",
+        "params": "Standard",
+        "trades": 14,
+        "winrate": 0.429,
+        "pf": 0.75,
+        "max_dd": -5.0,
+        "score": 0.09009
+      },
+      {
+        "symbol": "LTCUSDT",
+        "session": "Asia",
+        "params": "Aggressive",
+        "trades": 48,
+        "winrate": 0.458,
+        "pf": 0.85,
+        "max_dd": -18.0,
+        "score": 0.37372799999999995
+      }
+    ],
+    "NEARUSDT": [
+      {
+        "symbol": "NEARUSDT",
+        "session": "NY",
+        "params": "Conservative",
+        "trades": 5,
+        "winrate": 0.6,
+        "pf": 1.5,
+        "max_dd": -2.0,
+        "score": 0.09
+      },
+      {
+        "symbol": "NEARUSDT",
+        "session": "NY",
+        "params": "Standard",
+        "trades": 6,
+        "winrate": 0.5,
+        "pf": 1.0,
+        "max_dd": -3.0,
+        "score": 0.06
+      },
+      {
+        "symbol": "NEARUSDT",
+        "session": "Asia",
+        "params": "Aggressive",
+        "trades": 10,
+        "winrate": 0.5,
+        "pf": 1.0,
+        "max_dd": -4.0,
+        "score": 0.1
+      }
+    ],
+    "OPUSDT": [
+      {
+        "symbol": "OPUSDT",
+        "session": "NY",
+        "params": "Conservative",
+        "trades": 10,
+        "winrate": 0.4,
+        "pf": 0.67,
+        "max_dd": -4.0,
+        "score": 0.05360000000000001
+      },
+      {
+        "symbol": "OPUSDT",
+        "session": "NY",
+        "params": "Standard",
+        "trades": 9,
+        "winrate": 0.444,
+        "pf": 0.8,
+        "max_dd": -4.0,
+        "score": 0.063936
+      },
+      {
+        "symbol": "OPUSDT",
+        "session": "Asia",
+        "params": "Aggressive",
+        "trades": 33,
+        "winrate": 0.606,
+        "pf": 1.54,
+        "max_dd": -9.0,
+        "score": 0.6159384
+      }
+    ]
+  }
+}

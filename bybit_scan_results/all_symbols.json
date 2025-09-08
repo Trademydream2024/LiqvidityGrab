@@ -1,0 +1,3082 @@
+[
+  {
+    "symbol": "1000000BABYDOGEUSDT",
+    "base": "1000000BABYDOGE",
+    "quote": "USDT",
+    "min_price": 1e-07,
+    "max_price": 1.9999998
+  },
+  {
+    "symbol": "1000000CHEEMSUSDT",
+    "base": "1000000CHEEMS",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "1000000MOGUSDT",
+    "base": "1000000MOG",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "1000000PEIPEIUSDT",
+    "base": "1000000PEIPEI",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "10000COQUSDT",
+    "base": "10000COQ",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "10000ELONUSDT",
+    "base": "10000ELON",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "10000LADYSUSDT",
+    "base": "10000LADYS",
+    "quote": "USDT",
+    "min_price": 1e-07,
+    "max_price": 1.9999998
+  },
+  {
+    "symbol": "10000QUBICUSDT",
+    "base": "10000QUBIC",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "10000SATSUSDT",
+    "base": "10000SATS",
+    "quote": "USDT",
+    "min_price": 1e-07,
+    "max_price": 1.9999998
+  },
+  {
+    "symbol": "10000WENUSDT",
+    "base": "10000WEN",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "1000BONKUSDT",
+    "base": "1000BONK",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "1000BTTUSDT",
+    "base": "1000BTT",
+    "quote": "USDT",
+    "min_price": 1e-07,
+    "max_price": 1.9999998
+  },
+  {
+    "symbol": "1000CATUSDT",
+    "base": "1000CAT",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "1000FLOKIUSDT",
+    "base": "1000FLOKI",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "1000LUNCUSDT",
+    "base": "1000LUNC",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "1000NEIROCTOUSDT",
+    "base": "1000NEIROCTO",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "1000PEPEUSDT",
+    "base": "1000PEPE",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "1000RATSUSDT",
+    "base": "1000RATS",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "1000TAGUSDT",
+    "base": "1000TAG",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "1000TOSHIUSDT",
+    "base": "1000TOSHI",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "1000TURBOUSDT",
+    "base": "1000TURBO",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "1000XECUSDT",
+    "base": "1000XEC",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "1000XUSDT",
+    "base": "1000X",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "1INCHUSDT",
+    "base": "1INCH",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "A2ZUSDT",
+    "base": "A2Z",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "A8USDT",
+    "base": "A8",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "AAVEUSDT",
+    "base": "AAVE",
+    "quote": "USDT",
+    "min_price": 0.01,
+    "max_price": 199999.98
+  },
+  {
+    "symbol": "ACEUSDT",
+    "base": "ACE",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ACHUSDT",
+    "base": "ACH",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "ACTUSDT",
+    "base": "ACT",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "ACXUSDT",
+    "base": "ACX",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ADAUSDT",
+    "base": "ADA",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "AERGOUSDT",
+    "base": "AERGO",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "AEROUSDT",
+    "base": "AERO",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "AEVOUSDT",
+    "base": "AEVO",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "AGIUSDT",
+    "base": "AGI",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "AGLDUSDT",
+    "base": "AGLD",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "AGTUSDT",
+    "base": "AGT",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "AI16ZUSDT",
+    "base": "AI16Z",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "AINUSDT",
+    "base": "AIN",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "AIOUSDT",
+    "base": "AIO",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "AIOZUSDT",
+    "base": "AIOZ",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "AIUSDT",
+    "base": "AI",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "AIXBTUSDT",
+    "base": "AIXBT",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "AKTUSDT",
+    "base": "AKT",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "ALCHUSDT",
+    "base": "ALCH",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "ALEOUSDT",
+    "base": "ALEO",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ALGOUSDT",
+    "base": "ALGO",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ALICEUSDT",
+    "base": "ALICE",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "base": "ALPHA",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "ALPINEUSDT",
+    "base": "ALPINE",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "ALTUSDT",
+    "base": "ALT",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "ALUUSDT",
+    "base": "ALU",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "ANIMEUSDT",
+    "base": "ANIME",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "ANKRUSDT",
+    "base": "ANKR",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "APEUSDT",
+    "base": "APE",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "API3USDT",
+    "base": "API3",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "APTUSDT",
+    "base": "APT",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "ARBUSDT",
+    "base": "ARB",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ARCUSDT",
+    "base": "ARC",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "ARIAUSDT",
+    "base": "ARIA",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "ARKMUSDT",
+    "base": "ARKM",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ARKUSDT",
+    "base": "ARK",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ARPAUSDT",
+    "base": "ARPA",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "ARUSDT",
+    "base": "AR",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "ASPUSDT",
+    "base": "ASP",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ASRUSDT",
+    "base": "ASR",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "ASTRUSDT",
+    "base": "ASTR",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "ATAUSDT",
+    "base": "ATA",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "ATHUSDT",
+    "base": "ATH",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "ATOMUSDT",
+    "base": "ATOM",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "AUCTIONUSDT",
+    "base": "AUCTION",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "AUDIOUSDT",
+    "base": "AUDIO",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "AUSDT",
+    "base": "A",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "AVAAIUSDT",
+    "base": "AVAAI",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "AVAILUSDT",
+    "base": "AVAIL",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "AVAUSDT",
+    "base": "AVA",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "AVAXUSDT",
+    "base": "AVAX",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "AVLUSDT",
+    "base": "AVL",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "AWEUSDT",
+    "base": "AWE",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "AXLUSDT",
+    "base": "AXL",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "AXSUSDT",
+    "base": "AXS",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "B2USDT",
+    "base": "B2",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "B3USDT",
+    "base": "B3",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "BABYUSDT",
+    "base": "BABY",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "BADGERUSDT",
+    "base": "BADGER",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "BAKEUSDT",
+    "base": "BAKE",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "BANANAS31USDT",
+    "base": "BANANAS31",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "BANANAUSDT",
+    "base": "BANANA",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "BANDUSDT",
+    "base": "BAND",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "BANKUSDT",
+    "base": "BANK",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "BANUSDT",
+    "base": "BAN",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "BATUSDT",
+    "base": "BAT",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "BBUSDT",
+    "base": "BB",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "BCHUSDT",
+    "base": "BCH",
+    "quote": "USDT",
+    "min_price": 0.1,
+    "max_price": 1999999.8
+  },
+  {
+    "symbol": "BDXNUSDT",
+    "base": "BDXN",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "BEAMUSDT",
+    "base": "BEAM",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "BELUSDT",
+    "base": "BEL",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "BERAUSDT",
+    "base": "BERA",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "BICOUSDT",
+    "base": "BICO",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "BIGTIMEUSDT",
+    "base": "BIGTIME",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "BIOUSDT",
+    "base": "BIO",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "BLASTUSDT",
+    "base": "BLAST",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "BLURUSDT",
+    "base": "BLUR",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "BMTUSDT",
+    "base": "BMT",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "BNBUSDT",
+    "base": "BNB",
+    "quote": "USDT",
+    "min_price": 0.1,
+    "max_price": 1999999.8
+  },
+  {
+    "symbol": "BNTUSDT",
+    "base": "BNT",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "BOBAUSDT",
+    "base": "BOBA",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "BOMEUSDT",
+    "base": "BOME",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "BRETTUSDT",
+    "base": "BRETT",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "BROCCOLIUSDT",
+    "base": "BROCCOLI",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "BRUSDT",
+    "base": "BR",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "BSUUSDT",
+    "base": "BSU",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "BSVUSDT",
+    "base": "BSV",
+    "quote": "USDT",
+    "min_price": 0.01,
+    "max_price": 199999.98
+  },
+  {
+    "symbol": "BSWUSDT",
+    "base": "BSW",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "BTCUSDT",
+    "base": "BTC",
+    "quote": "USDT",
+    "min_price": 0.1,
+    "max_price": 1999999.8
+  },
+  {
+    "symbol": "BTRUSDT",
+    "base": "BTR",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "BUSDT",
+    "base": "B",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "C98USDT",
+    "base": "C98",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "CAKEUSDT",
+    "base": "CAKE",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "CAMPUSDT",
+    "base": "CAMP",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "CARVUSDT",
+    "base": "CARV",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "CATIUSDT",
+    "base": "CATI",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "CELOUSDT",
+    "base": "CELO",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "CELRUSDT",
+    "base": "CELR",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "CETUSUSDT",
+    "base": "CETUS",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "CFXUSDT",
+    "base": "CFX",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "CGPTUSDT",
+    "base": "CGPT",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "CHESSUSDT",
+    "base": "CHESS",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "CHILLGUYUSDT",
+    "base": "CHILLGUY",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "CHRUSDT",
+    "base": "CHR",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "CHZUSDT",
+    "base": "CHZ",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "CKBUSDT",
+    "base": "CKB",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "CLANKERUSDT",
+    "base": "CLANKER",
+    "quote": "USDT",
+    "min_price": 0.01,
+    "max_price": 199999.98
+  },
+  {
+    "symbol": "CLOUDUSDT",
+    "base": "CLOUD",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "COMPUSDT",
+    "base": "COMP",
+    "quote": "USDT",
+    "min_price": 0.01,
+    "max_price": 199999.98
+  },
+  {
+    "symbol": "COOKIEUSDT",
+    "base": "COOKIE",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "COOKUSDT",
+    "base": "COOK",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "COREUSDT",
+    "base": "CORE",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "COSUSDT",
+    "base": "COS",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "COTIUSDT",
+    "base": "COTI",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "COWUSDT",
+    "base": "COW",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "CPOOLUSDT",
+    "base": "CPOOL",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "CROSSUSDT",
+    "base": "CROSS",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "CROUSDT",
+    "base": "CRO",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "CRVUSDT",
+    "base": "CRV",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "CTCUSDT",
+    "base": "CTC",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "CTKUSDT",
+    "base": "CTK",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "CTSIUSDT",
+    "base": "CTSI",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "CUDISUSDT",
+    "base": "CUDIS",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "CUSDT",
+    "base": "C",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "CVCUSDT",
+    "base": "CVC",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "CVXUSDT",
+    "base": "CVX",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "CYBERUSDT",
+    "base": "CYBER",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "DAMUSDT",
+    "base": "DAM",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "DASHUSDT",
+    "base": "DASH",
+    "quote": "USDT",
+    "min_price": 0.01,
+    "max_price": 199999.98
+  },
+  {
+    "symbol": "DBRUSDT",
+    "base": "DBR",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "DEEPUSDT",
+    "base": "DEEP",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "DEGENUSDT",
+    "base": "DEGEN",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "DENTUSDT",
+    "base": "DENT",
+    "quote": "USDT",
+    "min_price": 1e-07,
+    "max_price": 1.9999998
+  },
+  {
+    "symbol": "DEXEUSDT",
+    "base": "DEXE",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "DGBUSDT",
+    "base": "DGB",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "DIAUSDT",
+    "base": "DIA",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "DMCUSDT",
+    "base": "DMC",
+    "quote": "USDT",
+    "min_price": 1e-07,
+    "max_price": 1.9999998
+  },
+  {
+    "symbol": "DODOUSDT",
+    "base": "DODO",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "DOGEUSDT",
+    "base": "DOGE",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "DOGSUSDT",
+    "base": "DOGS",
+    "quote": "USDT",
+    "min_price": 1e-07,
+    "max_price": 1.9999998
+  },
+  {
+    "symbol": "DOGUSDT",
+    "base": "DOG",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "DOLOUSDT",
+    "base": "DOLO",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "DOODUSDT",
+    "base": "DOOD",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "DOTUSDT",
+    "base": "DOT",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "DRIFTUSDT",
+    "base": "DRIFT",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "DUCKUSDT",
+    "base": "DUCK",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "DUSKUSDT",
+    "base": "DUSK",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "DYDXUSDT",
+    "base": "DYDX",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "DYMUSDT",
+    "base": "DYM",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "EDUUSDT",
+    "base": "EDU",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "EGLDUSDT",
+    "base": "EGLD",
+    "quote": "USDT",
+    "min_price": 0.01,
+    "max_price": 199999.98
+  },
+  {
+    "symbol": "EIGENUSDT",
+    "base": "EIGEN",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ELXUSDT",
+    "base": "ELX",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ENAUSDT",
+    "base": "ENA",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ENJUSDT",
+    "base": "ENJ",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "ENSUSDT",
+    "base": "ENS",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "EPICUSDT",
+    "base": "EPIC",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "EPTUSDT",
+    "base": "EPT",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "ERAUSDT",
+    "base": "ERA",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ESPORTSUSDT",
+    "base": "ESPORTS",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "ESUSDT",
+    "base": "ES",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ETCUSDT",
+    "base": "ETC",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "ETHBTCUSDT",
+    "base": "ETHBTC",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "ETHFIUSDT",
+    "base": "ETHFI",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ETHUSDT",
+    "base": "ETH",
+    "quote": "USDT",
+    "min_price": 0.01,
+    "max_price": 199999.98
+  },
+  {
+    "symbol": "ETHWUSDT",
+    "base": "ETHW",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "FARTCOINUSDT",
+    "base": "FARTCOIN",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "FHEUSDT",
+    "base": "FHE",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "FIDAUSDT",
+    "base": "FIDA",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "FILUSDT",
+    "base": "FIL",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "FIOUSDT",
+    "base": "FIO",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "FISUSDT",
+    "base": "FIS",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "FLMUSDT",
+    "base": "FLM",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "FLOCKUSDT",
+    "base": "FLOCK",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "FLOWUSDT",
+    "base": "FLOW",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "FLRUSDT",
+    "base": "FLR",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "FLUXUSDT",
+    "base": "FLUX",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "FORMUSDT",
+    "base": "FORM",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "FORTHUSDT",
+    "base": "FORTH",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "FRAGUSDT",
+    "base": "FRAG",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "FUELUSDT",
+    "base": "FUEL",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "FUSDT",
+    "base": "F",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "FWOGUSDT",
+    "base": "FWOG",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "FXSUSDT",
+    "base": "FXS",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "GALAUSDT",
+    "base": "GALA",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "GASUSDT",
+    "base": "GAS",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "GIGAUSDT",
+    "base": "GIGA",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "GLMRUSDT",
+    "base": "GLMR",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "GLMUSDT",
+    "base": "GLM",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "GMTUSDT",
+    "base": "GMT",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "GMXUSDT",
+    "base": "GMX",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "GNOUSDT",
+    "base": "GNO",
+    "quote": "USDT",
+    "min_price": 0.01,
+    "max_price": 199999.98
+  },
+  {
+    "symbol": "GOATUSDT",
+    "base": "GOAT",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "GODSUSDT",
+    "base": "GODS",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "GORKUSDT",
+    "base": "GORK",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "GPSUSDT",
+    "base": "GPS",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "GRASSUSDT",
+    "base": "GRASS",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "GRIFFAINUSDT",
+    "base": "GRIFFAIN",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "GRTUSDT",
+    "base": "GRT",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "GTCUSDT",
+    "base": "GTC",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "GUNUSDT",
+    "base": "GUN",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "GUSDT",
+    "base": "G",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "HAEDALUSDT",
+    "base": "HAEDAL",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "HBARUSDT",
+    "base": "HBAR",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "HEIUSDT",
+    "base": "HEI",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "HFTUSDT",
+    "base": "HFT",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "HIFIUSDT",
+    "base": "HIFI",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "HIGHUSDT",
+    "base": "HIGH",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "HIPPOUSDT",
+    "base": "HIPPO",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "HIVEUSDT",
+    "base": "HIVE",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "HMSTRUSDT",
+    "base": "HMSTR",
+    "quote": "USDT",
+    "min_price": 1e-07,
+    "max_price": 1.9999998
+  },
+  {
+    "symbol": "HNTUSDT",
+    "base": "HNT",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "HOMEUSDT",
+    "base": "HOME",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "HOOKUSDT",
+    "base": "HOOK",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "HOTUSDT",
+    "base": "HOT",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "HPOS10IUSDT",
+    "base": "HPOS10I",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "HUMAUSDT",
+    "base": "HUMA",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "HUSDT",
+    "base": "H",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "HYPERUSDT",
+    "base": "HYPER",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "HYPEUSDT",
+    "base": "HYPE",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "ICNTUSDT",
+    "base": "ICNT",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ICPUSDT",
+    "base": "ICP",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "ICXUSDT",
+    "base": "ICX",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "IDEXUSDT",
+    "base": "IDEX",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "IDUSDT",
+    "base": "ID",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ILVUSDT",
+    "base": "ILV",
+    "quote": "USDT",
+    "min_price": 0.01,
+    "max_price": 199999.98
+  },
+  {
+    "symbol": "IMXUSDT",
+    "base": "IMX",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "INITUSDT",
+    "base": "INIT",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "INJUSDT",
+    "base": "INJ",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "INUSDT",
+    "base": "IN",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "IOSTUSDT",
+    "base": "IOST",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "IOTAUSDT",
+    "base": "IOTA",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "IOTXUSDT",
+    "base": "IOTX",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "IOUSDT",
+    "base": "IO",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "IPUSDT",
+    "base": "IP",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "JASMYUSDT",
+    "base": "JASMY",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "JELLYJELLYUSDT",
+    "base": "JELLYJELLY",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "JOEUSDT",
+    "base": "JOE",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "JSTUSDT",
+    "base": "JST",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "JTOUSDT",
+    "base": "JTO",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "JUSDT",
+    "base": "J",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "KAIAUSDT",
+    "base": "KAIA",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "KAITOUSDT",
+    "base": "KAITO",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "KASUSDT",
+    "base": "KAS",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "KAVAUSDT",
+    "base": "KAVA",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "KDAUSDT",
+    "base": "KDA",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "KERNELUSDT",
+    "base": "KERNEL",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "KMNOUSDT",
+    "base": "KMNO",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "KNCUSDT",
+    "base": "KNC",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "KSMUSDT",
+    "base": "KSM",
+    "quote": "USDT",
+    "min_price": 0.01,
+    "max_price": 199999.98
+  },
+  {
+    "symbol": "KUSDT",
+    "base": "K",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "L3USDT",
+    "base": "L3",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "LAUNCHCOINUSDT",
+    "base": "LAUNCHCOIN",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "LAUSDT",
+    "base": "LA",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "LDOUSDT",
+    "base": "LDO",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "LINKUSDT",
+    "base": "LINK",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "LISTAUSDT",
+    "base": "LISTA",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "LOOKSUSDT",
+    "base": "LOOKS",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "LPTUSDT",
+    "base": "LPT",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "LQTYUSDT",
+    "base": "LQTY",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "LRCUSDT",
+    "base": "LRC",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "LSKUSDT",
+    "base": "LSK",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "LTCUSDT",
+    "base": "LTC",
+    "quote": "USDT",
+    "min_price": 0.01,
+    "max_price": 199999.98
+  },
+  {
+    "symbol": "LUMIAUSDT",
+    "base": "LUMIA",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "LUNA2USDT",
+    "base": "LUNA2",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "MAGICUSDT",
+    "base": "MAGIC",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "MAJORUSDT",
+    "base": "MAJOR",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "MANAUSDT",
+    "base": "MANA",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "MANTAUSDT",
+    "base": "MANTA",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "MASAUSDT",
+    "base": "MASA",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "MASKUSDT",
+    "base": "MASK",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "MAVIAUSDT",
+    "base": "MAVIA",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "MAVUSDT",
+    "base": "MAV",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "MBOXUSDT",
+    "base": "MBOX",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "MELANIAUSDT",
+    "base": "MELANIA",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "MEMEUSDT",
+    "base": "MEME",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "MERLUSDT",
+    "base": "MERL",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "METISUSDT",
+    "base": "METIS",
+    "quote": "USDT",
+    "min_price": 0.01,
+    "max_price": 199999.98
+  },
+  {
+    "symbol": "MEUSDT",
+    "base": "ME",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "MEWUSDT",
+    "base": "MEW",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "MILKUSDT",
+    "base": "MILK",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "MINAUSDT",
+    "base": "MINA",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "MITOUSDT",
+    "base": "MITO",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "MLNUSDT",
+    "base": "MLN",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "MNTUSDT",
+    "base": "MNT",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "MOCAUSDT",
+    "base": "MOCA",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "MOODENGUSDT",
+    "base": "MOODENG",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "MORPHOUSDT",
+    "base": "MORPHO",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "MOVEUSDT",
+    "base": "MOVE",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "MOVRUSDT",
+    "base": "MOVR",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "MTLUSDT",
+    "base": "MTL",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "MUBARAKUSDT",
+    "base": "MUBARAK",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "MUSDT",
+    "base": "M",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "MVLUSDT",
+    "base": "MVL",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "MYRIAUSDT",
+    "base": "MYRIA",
+    "quote": "USDT",
+    "min_price": 1e-07,
+    "max_price": 1.9999998
+  },
+  {
+    "symbol": "MYROUSDT",
+    "base": "MYRO",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "MYXUSDT",
+    "base": "MYX",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "NAORISUSDT",
+    "base": "NAORIS",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "NEARUSDT",
+    "base": "NEAR",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "NEIROETHUSDT",
+    "base": "NEIROETH",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "NEOUSDT",
+    "base": "NEO",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "NEWTUSDT",
+    "base": "NEWT",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "NFPUSDT",
+    "base": "NFP",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "NILUSDT",
+    "base": "NIL",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "NKNUSDT",
+    "base": "NKN",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "NMRUSDT",
+    "base": "NMR",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "NODEUSDT",
+    "base": "NODE",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "NOTUSDT",
+    "base": "NOT",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "NSUSDT",
+    "base": "NS",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "NTRNUSDT",
+    "base": "NTRN",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "NXPCUSDT",
+    "base": "NXPC",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "OBOLUSDT",
+    "base": "OBOL",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "OBTUSDT",
+    "base": "OBT",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "OGNUSDT",
+    "base": "OGN",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "OGUSDT",
+    "base": "OG",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "OLUSDT",
+    "base": "OL",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "OMNIUSDT",
+    "base": "OMNI",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "OMUSDT",
+    "base": "OM",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ONDOUSDT",
+    "base": "ONDO",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ONEUSDT",
+    "base": "ONE",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "ONGUSDT",
+    "base": "ONG",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ONTUSDT",
+    "base": "ONT",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "OPUSDT",
+    "base": "OP",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ORBSUSDT",
+    "base": "ORBS",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "ORCAUSDT",
+    "base": "ORCA",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "ORDERUSDT",
+    "base": "ORDER",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ORDIUSDT",
+    "base": "ORDI",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "OSMOUSDT",
+    "base": "OSMO",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "OXTUSDT",
+    "base": "OXT",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "PARTIUSDT",
+    "base": "PARTI",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "PAXGUSDT",
+    "base": "PAXG",
+    "quote": "USDT",
+    "min_price": 0.01,
+    "max_price": 199999.98
+  },
+  {
+    "symbol": "PEAQUSDT",
+    "base": "PEAQ",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "PENDLEUSDT",
+    "base": "PENDLE",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "PENGUUSDT",
+    "base": "PENGU",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "PEOPLEUSDT",
+    "base": "PEOPLE",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "PERPUSDT",
+    "base": "PERP",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "PHAUSDT",
+    "base": "PHA",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "PHBUSDT",
+    "base": "PHB",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "PIPPINUSDT",
+    "base": "PIPPIN",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "PIXELUSDT",
+    "base": "PIXEL",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "PLUMEUSDT",
+    "base": "PLUME",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "PNUTUSDT",
+    "base": "PNUT",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "POLUSDT",
+    "base": "POL",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "POLYXUSDT",
+    "base": "POLYX",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "PONKEUSDT",
+    "base": "PONKE",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "POPCATUSDT",
+    "base": "POPCAT",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "PORTALUSDT",
+    "base": "PORTAL",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "POWRUSDT",
+    "base": "POWR",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "PRCLUSDT",
+    "base": "PRCL",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "PRIMEUSDT",
+    "base": "PRIME",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "PROMPTUSDT",
+    "base": "PROMPT",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "PROMUSDT",
+    "base": "PROM",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "PROVEUSDT",
+    "base": "PROVE",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "PTBUSDT",
+    "base": "PTB",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "PUFFERUSDT",
+    "base": "PUFFER",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "PUMPBTCUSDT",
+    "base": "PUMPBTC",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "PUMPFUNUSDT",
+    "base": "PUMPFUN",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "PUNDIXUSDT",
+    "base": "PUNDIX",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "PYRUSDT",
+    "base": "PYR",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "PYTHUSDT",
+    "base": "PYTH",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "QIUSDT",
+    "base": "QI",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "QNTUSDT",
+    "base": "QNT",
+    "quote": "USDT",
+    "min_price": 0.01,
+    "max_price": 199999.98
+  },
+  {
+    "symbol": "QTUMUSDT",
+    "base": "QTUM",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "QUICKUSDT",
+    "base": "QUICK",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "RADUSDT",
+    "base": "RAD",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "RAREUSDT",
+    "base": "RARE",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "RAYDIUMUSDT",
+    "base": "RAYDIUM",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "RDNTUSDT",
+    "base": "RDNT",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "REDUSDT",
+    "base": "RED",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "RENDERUSDT",
+    "base": "RENDER",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "REQUSDT",
+    "base": "REQ",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "RESOLVUSDT",
+    "base": "RESOLV",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "REXUSDT",
+    "base": "REX",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "REZUSDT",
+    "base": "REZ",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "RFCUSDT",
+    "base": "RFC",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "RHEAUSDT",
+    "base": "RHEA",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "RIFUSDT",
+    "base": "RIF",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "RLCUSDT",
+    "base": "RLC",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ROAMUSDT",
+    "base": "ROAM",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "RONINUSDT",
+    "base": "RONIN",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "ROSEUSDT",
+    "base": "ROSE",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "RPLUSDT",
+    "base": "RPL",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "RSRUSDT",
+    "base": "RSR",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "RSS3USDT",
+    "base": "RSS3",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "RUNEUSDT",
+    "base": "RUNE",
+    "quote": "USDT",
+    "min_price": 0.001,
+    "max_price": 19999.998
+  },
+  {
+    "symbol": "RVNUSDT",
+    "base": "RVN",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "SAFEUSDT",
+    "base": "SAFE",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "SAGAUSDT",
+    "base": "SAGA",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "SAHARAUSDT",
+    "base": "SAHARA",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "SANDUSDT",
+    "base": "SAND",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "SAPIENUSDT",
+    "base": "SAPIEN",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "SAROSUSDT",
+    "base": "SAROS",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "SCAUSDT",
+    "base": "SCA",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "SCRTUSDT",
+    "base": "SCRT",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "SCRUSDT",
+    "base": "SCR",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "SCUSDT",
+    "base": "SC",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "SDUSDT",
+    "base": "SD",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "SEIUSDT",
+    "base": "SEI",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "SENDUSDT",
+    "base": "SEND",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "SERAPHUSDT",
+    "base": "SERAPH",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "SFPUSDT",
+    "base": "SFP",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "SHELLUSDT",
+    "base": "SHELL",
+    "quote": "USDT",
+    "min_price": 0.0001,
+    "max_price": 1999.9998
+  },
+  {
+    "symbol": "SHIB1000USDT",
+    "base": "SHIB1000",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "SIGNUSDT",
+    "base": "SIGN",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "SIRENUSDT",
+    "base": "SIREN",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "SKATEUSDT",
+    "base": "SKATE",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "SKLUSDT",
+    "base": "SKL",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "SKYAIUSDT",
+    "base": "SKYAI",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "SKYUSDT",
+    "base": "SKY",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "SLERFUSDT",
+    "base": "SLERF",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "SLFUSDT",
+    "base": "SLF",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  },
+  {
+    "symbol": "SLPUSDT",
+    "base": "SLP",
+    "quote": "USDT",
+    "min_price": 1e-06,
+    "max_price": 19.999998
+  },
+  {
+    "symbol": "SNTUSDT",
+    "base": "SNT",
+    "quote": "USDT",
+    "min_price": 1e-05,
+    "max_price": 199.99998
+  }
+]

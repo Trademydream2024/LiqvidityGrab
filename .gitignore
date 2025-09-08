@@ -1,0 +1,14 @@
+# קבצים רגישים
+.env
+.env.local
+config.json
+
+# תיקיות לא נחוצות
+node_modules/
+.vscode/
+
+# קבצי לוג
+*.log
+npm-debug.log*
+
+Архив.zip
